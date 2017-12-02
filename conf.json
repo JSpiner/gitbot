@@ -1,8 +1,0 @@
-{
-    "github":{
-        "bot":{
-            "id":"{YOUR-GITHUB-BOT-ID}",
-            "pw":"{YOUR-GITHUB_BOT_PW}"
-        }
-    }
-}
